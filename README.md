@@ -21,9 +21,7 @@
 #### 相关展示
 
 1.  主题迷惑度
-
-![输入图片说明](https://gitee.com/dubochao1/LDA/model/Perplexity-Topics.png)
+![输入图片说明](model/Perplexity-Topics.png)
 2.  词云图
-![输入图片说明](https://gitee.com/dubochao1/LDA/model/1.png)
+![输入图片说明](model/1.png)
 3.  生成网页
-![输入链接说明](https://gitee.com/dubochao1/LDA/model/lda.html)
