@@ -22,8 +22,8 @@
 
 1.  主题迷惑度
 
-![https://gitee.com/dubochao1/LDA/model/Perplexity-Topics.png]
+!(https://gitee.com/dubochao1/LDA/model/Perplexity-Topics.png)
 2.  词云图
-[https://gitee.com/dubochao1/LDA/model/1.png]
+!(https://gitee.com/dubochao1/LDA/model/1.png)
 3.  生成网页
-[https://gitee.com/dubochao1/LDA/model/lda.html]
+(https://gitee.com/dubochao1/LDA/model/lda.html)
